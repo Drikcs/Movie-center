@@ -1,6 +1,6 @@
 Privacy Policy
 
-    MyDrik built the Movie Center app as a Commercial app. This application is provided by MyDrik and is intended for use as is.
+    MyDrik built the Movie Center app as a Commercial app to manage and list personal movie collection. This application is provided by MyDrik and is intended for use as is.
     This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
     If you choose to use my Service, then you agree to the informations in this policy. 
 
