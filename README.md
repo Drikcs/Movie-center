@@ -9,6 +9,7 @@ Information Collection and Use
 
     None personnal information are collected by our application or me in any way.
     I will not use or share your information with anyone, as part no information are collected by me.
+    Informations that you create into the application can be delete simply by erase user data from Android Settings of the application, or by uninstall the app.
     The app does use third-party services that may collect information used to identify you.
     
     Link to the privacy policy of third-party service providers used by the app
